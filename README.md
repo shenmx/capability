@@ -1,2 +1,1 @@
-# capability
-capability
+smx_optswitch_1
